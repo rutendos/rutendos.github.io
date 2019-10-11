@@ -9,12 +9,13 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Rutendo 'Ru'
+subtitle: "A Ph.D. Student in Computational Biology exploring the mysteries of the genome."
+email: rsiaguke@gmail.com
+name: Rutendo
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Chara chimwe hachitswande inda. -Shona Proverb
+  (A single finger can not crash lice)
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -78,31 +79,31 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: RFSigauke
+    url: https://twitter.com/RFSigauke
     desc: Follow me on Twitter
     share: true
 
-  - name: Facebook
-    icon: facebook
-    username: thebencentra
-    url: ""
-    desc: Friend me on Facebook
-    share: true
+  #- name: Facebook
+  #  icon: facebook
+  #  username: thebencentra
+  #  url: ""
+  #  desc: Friend me on Facebook
+  #  share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: rutendos
+    url: https://github.com/rutendos
     desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: true
+  #- name: LinkedIn
+  #  icon: linkedin
+  #  username: Ben Centra
+  #  url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+  #  desc: Connect with me on LinkedIn
+  #  share: true
 
   - name: Google+
     icon: google-plus
