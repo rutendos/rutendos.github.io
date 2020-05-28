@@ -15,4 +15,4 @@ My name is Rutendo. I am a graduate student in the Computation Bioscience Progra
 A PDF copy of my up-to-date Resume can be downloaded here [Resume](https://github.com/rutendos/rutendos.github.io/blob/master/Rutendo_Sigauke_2020AprilCV.pdf).
 
 **Contact me:**
-rutendo.sigauke@cuanschutz.edu
+ruerutendo@gmail.com
