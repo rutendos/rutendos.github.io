@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Rutendo S."
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: florence_or.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hello! My name is Rutendo. I am a Computational Biologist. I have been working on various projects aimed at answering various biological questions, such as chromosome dynamics in whiptail lizards and gene regulation in human cells. Outside of research, I enjoy exploring the outdoors, running, and art.
