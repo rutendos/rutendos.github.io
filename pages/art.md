@@ -1,6 +1,6 @@
 ---
-layout: category
-title: My Art
+layout: page
+title: Art
 category: art
 permalink: /art
 ---
